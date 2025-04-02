@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on some beneficial projects
 - 📫 How to reach me mdarhriilham3@gmail.com
 - 😄 Pronouns: 
-- ⚡ Fun fact: im nineteen
+- ⚡ Fun fact:
+- 
 
 <!---
 ilhammdarhri/ilhammdarhri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
